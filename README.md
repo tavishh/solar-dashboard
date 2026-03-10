@@ -16,6 +16,11 @@ This dashboard presents the results of a 3-stage GRG (Generalised Reduced Gradie
 
 ---
 
+## Screen Capture
+
+<img width="2518" height="919" alt="image" src="https://github.com/user-attachments/assets/0b86643a-a1c6-41ad-ad08-cbcbe948c32b" />
+
+---
 ## Features
 
 | Tab | Description |
