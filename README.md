@@ -4,7 +4,7 @@ An interactive research dashboard visualising solar irradiance, multi-site PV po
 
 Built as part of peer-reviewed research on grid stability and renewable energy optimisation.
 
-**[▶ Live Demo]([https://solar-dashboard-tavishh.streamlit.app/])** &nbsp;·&nbsp;
+**[▶ Live Demo](https://solar-dashboard-tavishh.streamlit.app/)** &nbsp;·&nbsp;
 
 ---
 
