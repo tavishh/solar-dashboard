@@ -4,7 +4,7 @@ An interactive research dashboard visualising solar irradiance, multi-site PV po
 
 Built as part of peer-reviewed research on grid stability and renewable energy optimisation.
 
-**[▶ Live Demo](https://tavishh-solar-dashboard.streamlit.app)** &nbsp;·&nbsp; **[GitHub](https://github.com/tavishh)**
+**[▶ Live Demo]([https://solar-dashboard-tavishh.streamlit.app/])** &nbsp;·&nbsp;
 
 ---
 
@@ -20,10 +20,10 @@ This dashboard presents the results of a 3-stage GRG (Generalised Reduced Gradie
 
 | Tab | Description |
 |-----|-------------|
-| ⚡ Before vs After | Single-site (spiky) vs GRG-optimised combined output with ramp rate comparison |
-| 🌤 Irradiance by Site | Day-level irradiance curves per site with daily statistics |
-| 📅 Monthly Overview | Heatmap of daily peak irradiance + monthly ramp rate trend |
-| 🔬 Research & Pipeline | Abstract data pipeline (raw → BSRN QC → GRG optimisation) + publications |
+| Before vs After Optimization| Single-site (spiky) vs GRG-optimised combined output with ramp rate comparison |
+| Irradiance by Site | Day-level irradiance curves per site with daily statistics |
+| Monthly Overview | Heatmap of daily peak irradiance + monthly ramp rate trend |
+| Research & Pipeline | Abstract data pipeline (raw → BSRN QC → GRG optimisation) + publications |
 
 ---
 
